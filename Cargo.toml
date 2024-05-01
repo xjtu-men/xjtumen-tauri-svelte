@@ -1,0 +1,6 @@
+[workspace]
+members = ["src-tauri"]
+resolver = "2"
+
+#[patch.crates-io]
+#tauri = { path = "/f/tauri/core/tauri/" }

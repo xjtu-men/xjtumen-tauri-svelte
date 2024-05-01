@@ -1,0 +1,20 @@
+liu@I /f % ~/tauri-create --beta
+info: downloading create-tauri-app
+✔ Project name · xjtumen-tauri-svelte
+✔ Choose which language to use for your frontend · TypeScript / JavaScript - (pnpm, yarn, npm, bun)
+✔ Choose your package manager · pnpm
+✔ Choose your UI template · Svelte - (https://svelte.dev/)
+✔ Choose your UI flavor · JavaScript
+✔ Would you like to setup the project for mobile as well? · yes
+
+Template created! To get started run:
+  cd xjtumen-tauri-svelte
+  pnpm install
+  pnpm tauri android init
+
+For Desktop development, run:
+  pnpm tauri dev
+
+For Android development, run:
+  pnpm tauri android dev
+
